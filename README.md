@@ -1,4 +1,10 @@
 # Pet-Home-Management-System
 
+git pull --rebase
 
-this change is made by another person
+
+git status
+git add .
+git status
+git commit -m "......"
+git push
