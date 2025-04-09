@@ -8,7 +8,7 @@
     <h1>Welcome to Pet Home</h1>
     <h2>Premium Pet Care Services</h2>
     
-    <h3>Dog Offers</h3>
+    <h3>Dog Offerss
     <form>
         <table border="1">
             <tr>
