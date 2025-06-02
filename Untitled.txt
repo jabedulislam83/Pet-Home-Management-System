@@ -1,0 +1,43 @@
+/*
+in the name of allah
+falcon83
+*/
+
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    long long n,k;
+    cin>>n>>k;
+
+   long long i=1,cnt=0,x=-1;
+
+   if(n<k)
+   {
+   x=-1;
+   }
+   else
+   {
+       while(cnt<=k)
+   {
+       if(n%i==0)
+       {
+           cnt++;
+           x=i;
+
+       }
+       i++;
+   }
+
+   }
+
+
+
+   cout<<x;
+
+}
+
+
+ 
